@@ -1,0 +1,24 @@
+.MidSectionbox{
+    display: flex;
+}
+.content{
+    width: 70%;
+    background-color: aqua;
+}
+.sidebar1{
+    width: 30%;
+    background-color: blueviolet;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+}
+.header{
+    background-color: black;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+}
+
+  
